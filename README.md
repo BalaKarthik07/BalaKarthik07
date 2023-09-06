@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BalaKarthik07
-- 👀 I’m interested in ... Arts🎨
-- 🌱 I’m currently learning ...UG course
+  
+- 🌱 I’m currently pursiving ...UG course in CSE Dept...
 
 <!---
 BalaKarthik07/BalaKarthik07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
