@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BalaKarthik07
+- 👋 Hi, I’m @BalaKarthik
   
 - 🌱 I’m currently pursiving ...UG course in CSE Dept...
 
